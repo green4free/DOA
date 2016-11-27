@@ -1,0 +1,100 @@
+---------------------------------------------
+--------         Bubble sort        ---------
+---------------------------------------------
+
+Osorterat: 
+  10 element:   109 jämförelser,    32 byten
+  20 element:   419 jämförelser,   110 byten
+  40 element:  1639 jämförelser,   364 byten
+ 100 element: 10099 jämförelser,  2092 byten
+100000 element: 1410165407 jämförelser, 2255475782 byten
+
+Sorterat: 
+  10 element:   109 jämförelser,     0 byten
+  20 element:   419 jämförelser,     0 byten
+  40 element:  1639 jämförelser,     0 byten
+ 100 element: 10099 jämförelser,     0 byten
+100000 element: 1410165407 jämförelser,     0 byten
+
+Bakï¿½tsorterat: 
+  10 element:   109 jämförelser,    45 byten
+  20 element:   419 jämförelser,   190 byten
+  40 element:  1639 jämförelser,   780 byten
+ 100 element: 10099 jämförelser,  4950 byten
+100000 element: 1410165407 jämförelser, 704982704 byten
+
+---------------------------------------------
+--------       Selection sort       ---------
+---------------------------------------------
+
+Osorterat: 
+  10 element:   118 jämförelser,     8 byten
+  20 element:   438 jämförelser,    14 byten
+  40 element:  1678 jämförelser,    28 byten
+ 100 element: 10198 jämförelser,    78 byten
+100000 element: 1410265406 jämförelser, 83798 byten
+
+Sorterat: 
+  10 element:   118 jämförelser,     0 byten
+  20 element:   438 jämförelser,     0 byten
+  40 element:  1678 jämförelser,     0 byten
+ 100 element: 10198 jämförelser,     0 byten
+100000 element: 1410265406 jämförelser,     0 byten
+
+Bakï¿½tsorterat: 
+  10 element:   118 jämförelser,     5 byten
+  20 element:   438 jämförelser,    10 byten
+  40 element:  1678 jämförelser,    20 byten
+ 100 element: 10198 jämförelser,    50 byten
+100000 element: 1410265406 jämförelser, 50000 byten
+
+---------------------------------------------
+--------       Insertion sort       ---------
+---------------------------------------------
+
+Osorterat: 
+  10 element:    87 jämförelser,    32 byten
+  20 element:   275 jämförelser,   110 byten
+  40 element:   842 jämförelser,   364 byten
+ 100 element:  4475 jämförelser,  2092 byten
+100000 element: 216284259 jämförelser, 2255475782 byten
+
+Sorterat: 
+  10 element:    28 jämförelser,     0 byten
+  20 element:    58 jämförelser,     0 byten
+  40 element:   118 jämförelser,     0 byten
+ 100 element:   298 jämförelser,     0 byten
+100000 element: 299998 jämförelser,     0 byten
+
+Bakï¿½tsorterat: 
+  10 element:   109 jämförelser,    45 byten
+  20 element:   419 jämförelser,   190 byten
+  40 element:  1639 jämförelser,   780 byten
+ 100 element: 10099 jämförelser,  4950 byten
+100000 element: 1410165407 jämförelser, 704982704 byten
+
+---------------------------------------------
+--------         Quick sort         ---------
+---------------------------------------------
+
+Osorterat: 
+  10 element:    93 jämförelser,    18 byten
+  20 element:   231 jämförelser,    50 byten
+  40 element:   593 jämförelser,   144 byten
+ 100 element:  1871 jämförelser,   518 byten
+100000 element: 4682789 jämförelser, 1139397 byten
+
+Sorterat: 
+  10 element:    89 jämförelser,    22 byten
+  20 element:   209 jämförelser,    52 byten
+  40 element:   487 jämförelser,   121 byten
+ 100 element:  1461 jämförelser,   361 byten
+100000 element: 3437893 jämförelser, 853916 byten
+
+Bakï¿½tsorterat: 
+  10 element:    91 jämförelser,    22 byten
+  20 element:   211 jämförelser,    50 byten
+  40 element:   489 jämförelser,   115 byten
+ 100 element:  1469 jämförelser,   338 byten
+100000 element: 3440263 jämförelser, 824192 byten
+
